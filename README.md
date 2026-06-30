@@ -1,4 +1,4 @@
-# OIBSIP Android Task 3 - Calculator App
+# OASIS Android Task 3 - Calculator App
 
 ## Objective
 Build a clean, fully functional Android calculator app that handles basic arithmetic operations with a responsive button grid interface.
@@ -29,4 +29,4 @@ Build a clean, fully functional Android calculator app that handles basic arithm
 A fully working calculator app that performs addition, subtraction, multiplication, and division accurately, with proper error handling and no crashes.
 
 ## Internship
-Oasis Infobyte - Android Application Development Internship (OIBSIP)
+Oasis Infobyte - Android Application Development Internship (OASIS)
